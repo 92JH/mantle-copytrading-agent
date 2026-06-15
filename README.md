@@ -35,3 +35,18 @@ pip install requests anthropic python-dotenv web3
 ```
 
 Create `.env` file:
+
+ANTHROPIC_API_KEY=your_key
+PRIVATE_KEY=your_wallet_private_key
+
+Run:
+```bash
+py agent.py
+```
+
+## 🏆 Hackathon
+
+- Event: Mantle Turing Test Hackathon 2026
+- Track: AI Trading & Strategy
+- Builder: @JH_929292
+
