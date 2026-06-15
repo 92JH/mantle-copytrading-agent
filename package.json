@@ -1,0 +1,14 @@
+{
+  "name": "mantle-copytrading-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.19.21",
+    "dotenv": "^17.4.2",
+    "typescript": "~6.0.3"
+  },
+  "dependencies": {
+    "ethers": "^6.16.0",
+    "solc": "^0.8.35"
+  }
+}
